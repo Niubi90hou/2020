@@ -1,8 +1,8 @@
 {
-    "name"              :"HelloWorldIsy",
-    "description"       :"My first plugin",
-    "namespace"         :"HelloWorld",
-    "author"            :"Your name",
-    "type"              :"template",
-    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+      "name":"HelloWorldIsy",
+      "description":"My first plugin",
+      "namespace":"HelloWorld",
+      "author":"plentysystems AG",
+      "type":"template",
+      "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }

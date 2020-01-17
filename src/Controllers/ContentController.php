@@ -1,7 +1,9 @@
 <?php
 namespace HelloWorld\Controllers;
+
 use Plenty\Plugin\Controller;
 use Plenty\Plugin\Templates\Twig;
+
 /**
  * Class ContentController
  * @package HelloWorld\Controllers
